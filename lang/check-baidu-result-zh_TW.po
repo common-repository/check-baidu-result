@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Check Baidu Result\n"
+"POT-Creation-Date: 2014-03-05 19:33+0800\n"
+"PO-Revision-Date: 2014-03-05 19:33+0800\n"
+"Last-Translator: Arefly <eflyjason@gmail.com>\n"
+"Language-Team: Arefly <eflyjason@gmail.com>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: check-baidu-result.php:48
+msgid "Settings"
+msgstr "設定"
+
+#: check-baidu-result.php:91
+msgid "This URL is in Baidu Search result."
+msgstr "該頁面存在於百度的搜尋結果內"
+
+#: check-baidu-result.php:93
+msgid "This URL is not in Baidu Search result."
+msgstr "該頁面不存在於百度的搜尋結果內"
+
+#: options.php:11 options.php:34
+msgid "Check Baidu Result Options Page"
+msgstr "Check Baidu Result 一般設定"
+
+#: options.php:11
+msgid "Check Baidu Result"
+msgstr "Check Baidu Result"
+
+#: options.php:37
+msgid "General Options"
+msgstr "一般設定"
+
+#: options.php:40
+msgid "Who can check Google Result?"
+msgstr "誰可以檢查鏈接是否存在於百度搜尋結果內？"
+
+#: options.php:42
+msgid "Admin Only"
+msgstr "只有管理員"
+
+#: options.php:42
+msgid "All Visitors"
+msgstr "所有訪客"
+
+#: options.php:46
+msgid "Check Baidu Result in Post's URL: "
+msgstr "在文章中檢查百度搜尋的鏈接："
+
+#: options.php:49
+msgid "(Leave empty for just simply visit the post.)"
+msgstr "（如果留空代表直接訪問文章即顯示）"
